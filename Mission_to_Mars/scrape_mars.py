@@ -130,4 +130,4 @@ def scrape():
 
     mars_data.update({'hemisphere_image_urls': hemisphere_image_urls})
 
-    return(mars_data)
+    return mars_data
